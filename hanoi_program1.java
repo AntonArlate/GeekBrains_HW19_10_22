@@ -1,6 +1,6 @@
 // Написать программу, показывающую последовательность действий для игры “Ханойская башня”
 
-public class program1 {
+public class hanoi_program1 {
     public static void main(String[] args) {
         int disk = 3;
         int from_pin = 1;

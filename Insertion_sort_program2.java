@@ -1,6 +1,6 @@
 //Реализовать алгоритм сортировки вставками
 
-public class program2 {
+public class insertion_sort_program2 {
     public static void main(String[] args) {
         int[] arr = {14, 11, 7, 2, 15, 10, 19, 5, 4, 6};
         view_arr(arr);
